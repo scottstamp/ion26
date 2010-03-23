@@ -1,0 +1,12 @@
+C:\Users\Audun\Desktop\r44\ION\server\trunk\bin\x86\Debug\Deltar.exe
+C:\Users\Audun\Desktop\r44\ION\server\trunk\bin\x86\Debug\Deltar.pdb
+C:\Users\Audun\Desktop\r44\ION\server\trunk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Audun\Desktop\r44\ION\server\trunk\obj\x86\Debug\Deltar.exe
+C:\Users\Audun\Desktop\r44\ION\server\trunk\obj\x86\Debug\Deltar.pdb
+C:\Documents and Settings\Åsa Olsson\Skrivebord\ION\server\trunk\obj\x86\Debug\Deltar.exe
+C:\Documents and Settings\Åsa Olsson\Skrivebord\ION\server\trunk\obj\x86\Debug\Deltar.pdb
+C:\Documents and Settings\Åsa Olsson\Skrivebord\ION26\server\trunk\obj\x86\Debug\Deltar.exe
+C:\Documents and Settings\Åsa Olsson\Skrivebord\ION26\server\trunk\obj\x86\Debug\Deltar.pdb
+C:\Documents and Settings\Åsa Olsson\Skrivebord\ION26\server\trunk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Åsa Olsson\Skrivebord\ION26\server\trunk\bin\x86\Debug\Deltar.exe
+C:\Documents and Settings\Åsa Olsson\Skrivebord\ION26\server\trunk\bin\x86\Debug\Deltar.pdb

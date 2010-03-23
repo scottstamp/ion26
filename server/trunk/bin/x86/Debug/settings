@@ -1,0 +1,35 @@
+##Ion Configuration File##
+
+# Minimum Log level #
+# 0 = Debug
+# 1 = Information
+# 2 = Warnings
+# 3 = Errors
+system.minloglevel=3
+
+# Database #
+db1.server.host=localhost
+db1.server.port=3306
+db1.server.uid=root
+db1.server.pwd=kaninpels1
+
+db1.name=ion26
+db1.minpoolsize=1
+db1.maxpoolsize=25
+
+# TCP listener #
+net.tcp.localip=0.0.0.0
+net.tcp.port=30010
+net.tcp.maxcon=255
+
+# Habbo Hotel #
+projects.habbo.client.version=26
+projects.habbo.server.pinginterval=10000
+projects.habbo.server.welcomemessage.enabled=1
+projects.habbo.server.welcomemessage.message=Welcome to ION26!
+
+# Users #
+projects.habbo.users.amount_activitypoints=100
+projects.habbo.users.habbactivitypoints_interval_minutes=1
+projects.habbo.users.maxfriends=200
+projects.habbo.users.hc_maxfriends=500
