@@ -1,0 +1,44 @@
+[CENTER][SIZE="6"]Ion26[/SIZE]
+[I][SIZE="2"]The open-source ION/Deltar based emulator running r26.[/SIZE][/I][/CENTER]
+
+[SIZE="4"][B]What is Ion26?[/B][/SIZE]
+Ion26 is an habbo emulator based on ION/Deltar made by [B][U]Nillus[/U][/B]. The habbo version Ion26 will be made for, is r26.
+It is written in C#.NET and uses MySQL as database. The developer of this emulator is me, awa500, but its open-source so everybody can help developing!
+I'm making this emulator because i'm tired of Holograph Emulator, and i want to make something new, better and faster.
+
+[B][SIZE="4"]Current features:[/SIZE][/B]
+Red = not started/stopped
+Yellow = In progress
+Green = Done
+
+[B]Login:[/B]
+- Login with SSO ticket - 100%
+- Checking if user is banned and the ban isnt expired - 100%
+- Initialize fuserights - 100%
+- Initialize Habbo Club - 0%
+- Initialize Buddylist & friendrequest - 100%
+- Initialize credits & tickets - 50% (Not tickets yet)
+
+[B]Navigator:[/B]
+
+[B]Console/Messenger:[/B]
+
+[B]Events:[/B]
+
+[B]Staff features:[/B]
+
+[B]Catalogue:[/B]
+
+[B]In-room:[/B]
+
+[SIZE="4"][B]FAQ:[/B][/SIZE]
+[B]Will Ion26 be free?[/B]
+[I]Yes, it will be totally free.[/I]
+[B]Will Ion26 be open-source?[/B]
+[I]yes. it will be open-source.[/I]
+[B]When will Ion26 be released?[/B]
+[I]When is done. (I can't say exactly when yet)[/I]
+[B]Can I help developing Ion26?[/B]
+[I]Yes, you can. just talk with me @ msn: [email]awa500@hotmail.com[/email][/I]
+
+[B][SIZE="4"]More updates soon with pictures![/SIZE][/B]
