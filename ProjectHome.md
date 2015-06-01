@@ -1,0 +1,3 @@
+Ion26 is an habbo emulator based on ION/Deltar made by Nillus. The habbo version Ion26 will be made for, is [r26](https://code.google.com/p/ion26/source/detail?r=26).
+It is written in C#.NET and uses MySQL as database. The developer of this emulator is me, awa500, but its open-source so everybody can help developing!
+I'm making this emulator because i'm tired of Holograph Emulator, and i want to make something new, better and faster.
